@@ -108,7 +108,7 @@ results/<skillname>/
 
 ---
 
-## 🏅 Rating legend
+## Rating legend
 
 - **1–3 → Beginner**  
 - **4–6 → Practitioner (independent work)**  
