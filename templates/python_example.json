@@ -1,0 +1,15 @@
+{
+  "skill": "Python (Data Science)",
+  "categories": [
+    {"name": "Core Syntax & Semantics", "weight": 12, "score": 8},
+    {"name": "Idiomatic Use & Style", "weight": 12, "score": 7},
+    {"name": "Standard Library & Ecosystem", "weight": 12, "score": 9},
+    {"name": "Problem Solving & Algorithms", "weight": 12, "score": 7},
+    {"name": "Testing & Debugging", "weight": 10, "score": 6},
+    {"name": "Performance & Optimization", "weight": 10, "score": 6},
+    {"name": "Tooling & Build", "weight": 8, "score": 7},
+    {"name": "Production-Readiness", "weight": 8, "score": 6},
+    {"name": "Design & Architecture", "weight": 8, "score": 7},
+    {"name": "Community & Contribution", "weight": 8, "score": 5}
+  ]
+}
