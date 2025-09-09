@@ -19,7 +19,7 @@ This repository includes:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/technical-skills-rating-system.git
+git clone https://github.com/mepsrajput/Technical-Skills-Rating-System.git
 cd technical-skills-rating-system
 
 
