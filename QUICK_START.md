@@ -1,4 +1,4 @@
-# 🚀 Skill Evaluation — Quick Start
+# Skill Evaluation — Quick Start
 
 Evaluate **any skill** (SQL, Python, Docker, etc.) using this framework. You can use existing templates in `templates/` or create your own.
 
@@ -11,7 +11,7 @@ git clone https://github.com/mepsrajput/Technical-Skills-Rating-System.git
 cd Technical-Skills-Rating-System
 ```
 
-(Optional) create a virtual environment and install dependencies:
+(Optional) Create a virtual environment and install dependencies:
 
 ```bash
 python -m venv .venv
@@ -67,7 +67,7 @@ python code/evaluate.py templates/my_skill.json
 # Save result to file
 python code/evaluate.py templates/my_skill.json --output results/my_skill_result.json
 
-# Normalize weights if they don’t sum to 100
+# Normalise weights if they don’t sum to 100
 python code/evaluate.py templates/my_skill.csv --normalize --output results/my_skill_result.csv
 ```
 
@@ -79,7 +79,7 @@ python code/evaluate.py templates/my_skill.csv --normalize --output results/my_s
   - Weighted total (0–10)  
   - Final rating (1–10, rounded)  
   - Category breakdown (weight, score, weighted score)  
-- If `--output` used, a detailed JSON/CSV is saved in `results/`.
+- If `--output` is used, a detailed JSON/CSV is saved in `results/`.
 
 ---
 
