@@ -1,10 +1,5 @@
 # Technical Skills Rating System (1–10)
 
-This repository provides a **universal, evidence-based system** to rate technical skills
-(programming languages, libraries, tools, platforms) on a **1–10 scale**.
-
-# Technical Skills Rating System (1–10)
-
 A unified, evidence-based system to rate technical skills (programming languages, libraries, tools, platforms) on a 1–10 scale.
 
 This repository includes:
