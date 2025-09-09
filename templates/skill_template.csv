@@ -1,0 +1,11 @@
+Skill,Category,Weight (%),Score (0-10)
+Python,Core Syntax & Semantics,12,
+Python,Idiomatic Use & Style,12,
+Python,Standard Library & Ecosystem,12,
+Python,Problem Solving & Algorithms,12,
+Python,Testing & Debugging,10,
+Python,Performance & Optimization,10,
+Python,Tooling & Build,8,
+Python,Production-Readiness,8,
+Python,Design & Architecture,8,
+Python,Community & Contribution,8,
