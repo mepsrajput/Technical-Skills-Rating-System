@@ -1,0 +1,8 @@
+{
+  "skill": "Python",
+  "categories": [
+    {"name": "Core Syntax & Semantics", "weight": 12, "score": 8},
+    {"name": "Idiomatic Use & Style", "weight": 12, "score": 7},
+    {"name": "Standard Library & Ecosystem", "weight": 12, "score": 9}
+  ]
+}
