@@ -2,7 +2,7 @@
 
 A unified, evidence-based system to rate technical skills (programming languages, libraries, tools, platforms) on a 1–10 scale.
 
-![abc]([https://myoctocat.com/assets/images/base-octocat.svg](https://images.pexels.com/photos/8447780/pexels-photo-8447780.jpeg)
+![abc](https://myoctocat.com/assets/images/base-octocat.svg](https://images.pexels.com/photos/8447780/pexels-photo-8447780.jpeg)
 
 
 This repository includes:
