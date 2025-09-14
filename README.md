@@ -2,8 +2,6 @@
 
 A unified, evidence-based system to rate technical skills (programming languages, libraries, tools, platforms) on a 1–10 scale.
 
-![abc](https://images.pexels.com/photos/8447780/pexels-photo-8447780.jpeg)
-
 ![pexels-cristian-rojas-8447780](https://github.com/user-attachments/assets/ac3088be-b7b3-445b-b6f1-0618e984d9bd)
 
 This repository includes:
