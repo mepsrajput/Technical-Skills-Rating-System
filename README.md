@@ -1,7 +1,8 @@
 # Technical Skills Rating System (1–10)
 
 A unified, evidence-based system to rate technical skills (programming languages, libraries, tools, platforms) on a 1–10 scale.
-![Uploading pexels-cristian-rojas-8447780.jpg…]()
+![abc]([https://myoctocat.com/assets/images/base-octocat.svg](https://images.pexels.com/photos/8447780/pexels-photo-8447780.jpeg))
+
 
 This repository includes:
 - `RATING_SYSTEM.md` — full rubric and guidance.
